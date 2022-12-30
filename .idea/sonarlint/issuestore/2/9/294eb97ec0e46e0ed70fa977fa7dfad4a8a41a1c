@@ -1,0 +1,32 @@
+
+J
+java:S37402"/Provide the parametrized type for this generic.(¥å§úÿÿÿÿ
+b
+java:S1192<"FDefine a constant instead of duplicating this literal "
+
+
+
+
+" 3 times.(ëÀÛt8İ™ÊÎÔ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ€‚Â
+„
+java:S4165Z"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(³ÖÉÿÿÿÿÿ8í‚ÆÎÔ0
+„
+java:S4165_"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(³ÖÉÿÿÿÿÿ8í‚ÆÎÔ0
+„
+java:S4165V"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(³ÖÉÿÿÿÿÿ8î‚ÆÎÔ0
+„
+java:S4165R"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(³ÖÉÿÿÿÿÿ8í‚ÆÎÔ0
+O
+java:S1135"2Complete the task associated to this TODO comment.(ë˜Ÿû8Èæ¾ÎÔ0
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(üÖß
+T	java:S106<"9Replace this use of System.out or System.err by a logger.(ëÀÛt8Ëæ¾ÎÔ0
+T	java:S106@"9Replace this use of System.out or System.err by a logger.(ëÀÛt8Íæ¾ÎÔ0
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(•óÎ“8Ïæ¾ÎÔ0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(àÛŒ±øÿÿÿÿ8Ïæ¾ÎÔ0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ƒ•¦Öÿÿÿÿÿ8Ïæ¾ÎÔ0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ºìº‹8Ïæ¾ÎÔ0
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ÚëĞø8Ïæ¾ÎÔ0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ËĞãúÿÿÿÿÿ8Ïæ¾ÎÔ0
+T	java:S106]"9Replace this use of System.out or System.err by a logger.(ëÀÛt8Ğæ¾ÎÔ0
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(ÙËÀ„ıÿÿÿÿ8Ñæ¾ÎÔ0

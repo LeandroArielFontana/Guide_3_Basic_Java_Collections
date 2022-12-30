@@ -23,7 +23,7 @@ public class Ejercicio05 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in).useDelimiter("\n");
         PaisService pService = new PaisService();
-        Set<Pais> paises = new TreeSet(Pais.comprarNombres);
+        Set<Pais> paises = new TreeSet(Pais.compararNombres);
         String respuesta;
         boolean salir;
 

@@ -21,11 +21,11 @@ public class Pais {
         this.nombre = nombre;
     }
 
-    public static Comparator<Pais> comprarNombres = new Comparator<Pais>() {
+    public static Comparator<Pais> compararNombres = new Comparator<Pais>() {
 
         @Override
         public int compare(Pais t, Pais t1) {
-            return t.getNombre().compareTo(t1.getNombre());
+                return t.getNombre().compareTo(t1.getNombre());
         }
     };
 }
