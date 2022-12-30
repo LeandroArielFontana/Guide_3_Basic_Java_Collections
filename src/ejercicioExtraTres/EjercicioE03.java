@@ -67,7 +67,6 @@ public class EjercicioE03 {
     }
 
     public static boolean menu(Set<Libro> libreria, LibroService libroService) {
-        Integer opc;
         boolean flag = true;
 
         System.out.println("Digite la opcion que desea realizar");
@@ -76,9 +75,8 @@ public class EjercicioE03 {
         System.out.println("3 - Devolver un libro");
         System.out.println("4 - Mostrar Libros");
         System.out.println("5 - Salir");
-        opc = read.nextInt();
 
-        switch (opc) {
+        switch (read.nextInt()) {
             case 1:
                 libreria.add(libroService.crearLibro());
                 flag = true;

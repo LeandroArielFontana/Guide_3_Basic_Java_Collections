@@ -1,0 +1,20 @@
+
+y
+java:S1319"cThe type of "paises" should be an interface such as "Map" rather than the implementation "HashMap".(ñ¶«ı
+y
+java:S1319 "cThe type of "paises" should be an interface such as "Map" rather than the implementation "HashMap".(‘”±
+~
+java:S13196"cThe type of "paises" should be an interface such as "Map" rather than the implementation "HashMap".(’ÓÙÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚öËê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Şˆóûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÔÃûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(µößs
+M	java:S106""9Replace this use of System.out or System.err by a logger.(é·ñs
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(µößs
+B
+java:S11251"'Remove the unnecessary boolean literal.(‰¡òîûÿÿÿÿ
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(ğñH
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ûŒËŒùÿÿÿÿ
+B
+java:S1125G"'Remove the unnecessary boolean literal.(‰¡òîûÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ĞÀğõ

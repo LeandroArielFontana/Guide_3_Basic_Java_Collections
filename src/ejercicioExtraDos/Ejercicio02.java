@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Ejercicio02 {
-
     /**
      * Crear una clase llamada CantanteFamoso. Esta clase guardará cantantes famosos y
      * tendrá como atributos el nombre y discoConMasVentas.
@@ -41,19 +40,18 @@ public class Ejercicio02 {
         System.out.println("3 - Eliminar un cantante");
         System.out.println("4 - Salir del programa");
 
-        int respuesta = read.nextInt();
-
-        if (respuesta == 1) {
-            cantantes.add(cantanteService.crearCantante());
-            return true;
-        } else if (respuesta == 2) {
-            cantanteService.mostrarCantante(cantantes);
-            return true;
-        } else if (respuesta == 3) {
-            cantanteService.eliminarCantante(cantantes);
-            return true;
-        } else {
-            return false;
+        switch (read.nextInt()) {
+            case 1:
+                cantantes.add(cantanteService.crearCantante());
+                return true;
+            case 2:
+                cantanteService.mostrarCantante(cantantes);
+                return true;
+            case 3:
+                cantanteService.eliminarCantante(cantantes);
+                return true;
+            default:
+                return false;
         }
     }
 }

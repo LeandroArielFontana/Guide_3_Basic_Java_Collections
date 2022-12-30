@@ -53,33 +53,22 @@ public class Ejercicio04 {
             }
         } while (salir);
 
-        System.out.println("LISTA DE PELICULAS");
-        System.out.println("");
+        System.out.println("LISTA DE PELICULAS\n");
         pService.mostrarPeliculas(peliculas);
 
-        System.out.println("");
-        System.out.println("-----------------");
-        System.out.println("");
+        System.out.println("\n-----------------\n");
         pService.peliculasMayor1Hora(peliculas);
 
-        System.out.println("");
-        System.out.println("-----------------");
-        System.out.println("");
+        System.out.println("\n-----------------\n");
         pService.ordenDuracionDesc(peliculas);
 
-        System.out.println("");
-        System.out.println("-----------------");
-        System.out.println("");
+        System.out.println("\n-----------------\n");
         pService.ordenDuracionAsc(peliculas);
 
-        System.out.println("");
-        System.out.println("-----------------");
-        System.out.println("");
+        System.out.println("\n-----------------\n");
         pService.ordenNombreAsc(peliculas);
 
-        System.out.println("");
-        System.out.println("-----------------");
-        System.out.println("");
+        System.out.println("\n-----------------\n");
         pService.ordenDirectorAsc(peliculas);
     }
 }

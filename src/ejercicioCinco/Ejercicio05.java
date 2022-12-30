@@ -5,7 +5,6 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class Ejercicio05 {
-
     /**
      * Se requiere un programa que lea y guarde países, y para evitar que se ingresen
      * repetidos usaremos un conjunto. El programa pedirá un país en un bucle, se

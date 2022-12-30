@@ -79,7 +79,7 @@ public class LibroService {
 
     public void mostrarLibros(Set<Libro> libreria) {
         for (Libro libro : libreria) {
-            System.out.println(libro.toString()+"\n");
+            System.out.println(libro.toString() + "\n");
         }
     }
 }
