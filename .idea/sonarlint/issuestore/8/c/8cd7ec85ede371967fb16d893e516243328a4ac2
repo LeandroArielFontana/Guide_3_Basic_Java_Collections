@@ -1,13 +1,0 @@
-
-‚
-java:S1319"lThe type of "productoHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(¥·½ğ
-ƒ
-java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(œ³€
-‚
-java:S1319"lThe type of "productoHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(œ³€
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¥Üşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Öµñëüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(áÙÓıÿÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(©İ…
-M	java:S106 "9Replace this use of System.out or System.err by a logger.(—Ñ/
-S	java:S106)"9Replace this use of System.out or System.err by a logger.(ı¦Ÿëúÿÿÿÿ

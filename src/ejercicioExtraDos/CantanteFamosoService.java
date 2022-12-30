@@ -32,10 +32,7 @@ public class CantanteFamosoService {
 
         while (it.hasNext()) {
             CantanteFamoso cantante = it.next();
-
-            if (cantante.getNombre().toLowerCase().equals(cantanteBuscado)) {
-                it.remove();
-            }
+            if (cantante.getNombre().toLowerCase().equals(cantanteBuscado)) it.remove();
         }
     }
 }

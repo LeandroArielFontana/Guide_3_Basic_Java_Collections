@@ -17,10 +17,6 @@ Q
 !src/EjercicioDos/Ejercicio02.java,1\a\1a63e78e1261dfeedf3295e22a83aef779282b15
 Z
 *src/ejercicioExtraCuatro/EjercicioE04.java,d\8\d8d25e266312e02286142ea78980f4eb0bcbac22
-Y
-)src/ejercicioExtraDos/CantanteFamoso.java,a\0\a0e0a52e909ecb0394d0a4a68f695a28796ef494
-`
-0src/ejercicioExtraDos/CantanteFamosoService.java,8\9\897c6987bee954538608be66cd5b8af830ffe8d0
 V
 &src/ejercicioExtraDos/Ejercicio02.java,a\f\afa54b0f9f3e16650f17ede360a2624b6b165aa6
 X
@@ -31,12 +27,6 @@ X
 (src/ejercicioExtraTres/LibroService.java,3\5\357386637356440453ccfa61773d777d5f361932
 W
 'src/ejercicioExtraUno/EjercicioE01.java,e\4\e4bfc27e673984159ba272961f849fd4cc9e2420
-R
-"src/ejercicioSeis/Ejercicio06.java,d\a\da36e61b283bf5b9e709787b931db6071cb70908
-O
-src/ejercicioSeis/Producto.java,b\f\bfdc48021e363c3fb62b5d3af55ede1c0173fe1b
-V
-&src/ejercicioSeis/ProductoService.java,8\c\8cd7ec85ede371967fb16d893e516243328a4ac2
 ;
 manifest.mf,1\d\1de71d11845294429b61ea236a5558babc5333cd
 9
